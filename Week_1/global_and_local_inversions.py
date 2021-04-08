@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/global-and-local-inversions/
 class Solution:
     def isIdealPermutation(self, A):
         ginversion = 0
