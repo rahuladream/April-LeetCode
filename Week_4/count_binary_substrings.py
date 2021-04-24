@@ -17,4 +17,7 @@ class Solution:
         for i in range(len(c)-1):
             req+=min(c[i], c[i+1])
         return req
-        
+
+
+a = Solution()
+print(a.countBinarySubstrings("00110011"))
