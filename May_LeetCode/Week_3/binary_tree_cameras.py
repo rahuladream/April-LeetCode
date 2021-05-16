@@ -33,3 +33,6 @@ class Solution:
         if not cover:
             ans += 1
         return ans
+
+obj = Solution()
+print(obj.minCameraCover([0,0,null,0,0]))
