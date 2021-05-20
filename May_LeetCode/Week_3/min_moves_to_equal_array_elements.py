@@ -1,5 +1,4 @@
 # https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
-
 class Solution:
     def minMoves2(self, nums):
         """
